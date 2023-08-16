@@ -1,3 +1,0 @@
-C:\dev\Bugd\Debug\Bugd.pdb
-C:\dev\Bugd\Bugd\Debug\Bugd.exe
-C:\dev\Bugd\Bugd\Debug\Bugd.pdb
