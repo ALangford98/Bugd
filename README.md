@@ -1,4 +1,8 @@
 # Bugd
-Simple Graphics rendering application for C++
 
-The goal is to create a window which can render graphics in real time and then to add interactions with those graphics. 
+3D Game engine designed for a Quake clone
+
+Goals:  - Map design/debug tools
+        - 3D Accelerated graphics
+        - Texture mapping
+        - Enemies with simple AI
