@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bugd", "Bugd\Bugd.vcxproj", "{E602D4B8-1809-4E6F-AC9D-090AEEC38C91}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Testing", "Testing\Testing.vcxproj", "{CA2A1CE4-E4C8-4421-9C02-21A4A0F508A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E602D4B8-1809-4E6F-AC9D-090AEEC38C91}.Debug|x64.ActiveCfg = Release|x64
+		{E602D4B8-1809-4E6F-AC9D-090AEEC38C91}.Debug|x64.Build.0 = Release|x64
+		{E602D4B8-1809-4E6F-AC9D-090AEEC38C91}.Release|x64.ActiveCfg = Debug|x64
+		{E602D4B8-1809-4E6F-AC9D-090AEEC38C91}.Release|x64.Build.0 = Debug|x64
+		{CA2A1CE4-E4C8-4421-9C02-21A4A0F508A1}.Debug|x64.ActiveCfg = Release|x64
+		{CA2A1CE4-E4C8-4421-9C02-21A4A0F508A1}.Debug|x64.Build.0 = Release|x64
+		{CA2A1CE4-E4C8-4421-9C02-21A4A0F508A1}.Release|x64.ActiveCfg = Debug|x64
+		{CA2A1CE4-E4C8-4421-9C02-21A4A0F508A1}.Release|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4F4922F-6043-4AF9-BACB-EF54850FF5B1}
+	EndGlobalSection
+EndGlobal
